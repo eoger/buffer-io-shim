@@ -1,6 +1,6 @@
 {
   "name": "buffer-compare-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Polyfills Node v0.10.x with v0.12.x `Buffer.prototype.compare` functionality.",
   "main": "index.js",
   "scripts": {
