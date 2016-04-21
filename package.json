@@ -1,23 +1,21 @@
 {
-  "name": "buffer-compare-polyfill",
-  "version": "1.0.1",
-  "description": "Polyfills Node v0.10.x with v0.12.x `Buffer.prototype.compare` functionality.",
+  "name": "buffer-io-shim",
+  "version": "1.0.0",
+  "description": "Shims Node v0.10.x with v0.12.x io related methods",
   "main": "index.js",
   "scripts": {
     "test": "node test"
   },
-  "author": "David Mark Clements",
+  "author": "Edouard Oger <eoger@fastmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "buffer-compare": "0.0.1"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidmarkclements/buffer-compare-polyfill.git"
+    "url": "git+https://github.com/eoger/buffer-io-shim.git"
   },
   "bugs": {
-    "url": "https://github.com/davidmarkclements/buffer-compare-polyfill/issues"
+    "url": "https://github.com/eoger/buffer-io-shim/issues"
   },
-  "homepage": "https://github.com/davidmarkclements/buffer-compare-polyfill#readme"
+  "homepage": "https://github.com/eoger/buffer-io-shim#readme"
 }
